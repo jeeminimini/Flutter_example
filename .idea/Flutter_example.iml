@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/fileio_example_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/fileio_example_flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/first_flutter_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/first_flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/http_example_flutter_app/.pub" />
@@ -11,6 +13,8 @@
       <excludeFolder url="file://$MODULE_DIR$/image_font_add_flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/internal_example_flutter_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/internal_example_flutter_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/intro_example_flutter_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/intro_example_flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/largefile_download_flutter_app/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/largefile_download_flutter_app/build" />
       <excludeFolder url="file://$MODULE_DIR$/material_flutter_app/.pub" />
