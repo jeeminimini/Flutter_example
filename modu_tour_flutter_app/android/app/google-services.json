@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680230415271",
+    "project_id": "modutour-92bec",
+    "storage_bucket": "modutour-92bec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680230415271:android:e348527970e47f7578a482",
+        "android_client_info": {
+          "package_name": "com.example.modu_tour_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680230415271-9bldb0ufehilk1u6oga3fn9reohjrnvl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcOra3XOlw0DNIGCsARR1Xdur4iIFxfE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680230415271-9bldb0ufehilk1u6oga3fn9reohjrnvl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
