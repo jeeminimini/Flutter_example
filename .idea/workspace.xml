@@ -19,7 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15dd48ab-d466-44d8-991b-9f822062d798" name="Default Changelist" comment="Initial commit" />
+    <list default="true" id="15dd48ab-d466-44d8-991b-9f822062d798" name="Default Changelist" comment="fileio_commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,6 +27,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/internal_example_flutter_app" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="26sDsrzAU4ZZDeKEvSi3stNBlHZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/internal_example_flutter_app" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="SvnConfiguration">
@@ -59,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1648203853728</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fileio_commit">
+      <created>1648211505409</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1648211505409</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,16 +80,26 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="fileio_commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="fileio_commit" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2258" y="172" key="DiffContextDialog" timestamp="1648211570877">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2258" y="172" key="DiffContextDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648211570877" />
     <state x="2660" y="260" key="FileChooserDialogImpl" timestamp="1648204241850">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="260" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648204241850" />
+    <state x="2737" y="431" key="Github.Dialog.Accounts.Choose" timestamp="1648211534550">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2737" y="431" key="Github.Dialog.Accounts.Choose/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648211534550" />
     <state x="2743" y="417" key="Github.ShareDialog" timestamp="1648203712184">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -90,9 +108,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2604" y="217" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648203727463" />
-    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1648203950984">
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1648211818001">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648203950984" />
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648211818001" />
+    <state x="2528" y="377" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1648211645471">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2528" y="377" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1648211645471" />
   </component>
 </project>

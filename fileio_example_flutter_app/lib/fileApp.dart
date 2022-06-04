@@ -78,9 +78,7 @@ class _FileApp extends State<FileApp> {
                    child: Text(
                      itemList[index],
                      style: TextStyle(fontSize: 30),
-                   ),
-                 ),
-               );
+                   ),),);
              },
                itemCount: itemList.length,
              )
